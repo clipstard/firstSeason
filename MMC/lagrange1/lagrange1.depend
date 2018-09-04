@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512368521 source:c:\users\ion\desktop\lagrange1\main.cpp
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<math.h>
+

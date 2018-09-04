@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bottomtext{
+color:white;
+	position: fixed;
+	font-size:12pt;
+	bottom: 0px;
+	margin-right: auto;
+	margin-left: auto; 
+	text-align: center;
+	right: 150px;
+	background-color:chocolate;
+}
+.title{
+	position:absolute;
+	font-size: 28pt;
+}
+.list{
+	font-size: 16pt;
+}
+.header{
+	width:60%;
+	height:inherit; 
+	opacity:0.6;
+}
+.cblock{
+	align-content: stretch;
+	visibility: visible;
+	border: outset;
+	border-right: none;
+	border-top-style: groove;
+	width:44%;
+	font-size: 16;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	/*----*/
+
+}
+.image{
+	border:double;
+	border-width:4pt;
+	border-color:aqua;
+	border-bottom-color:darkblue;
+}
